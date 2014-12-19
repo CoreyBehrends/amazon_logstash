@@ -126,5 +126,4 @@ url=https://github.com/CoreyBehrends/chef-logstash.git
 	url = https://github.com/opscode-cookbooks/yum-epel.git
 [submodule "kibana"]
 	path = kibana
-	url = https://github.com/foxycoder/chef-kibana.git
-	branch = master
+	url = https://github.com/CoreyBehrends/chef-kibana.git
